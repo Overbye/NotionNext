@@ -91,36 +91,36 @@ const CONFIG = {
       color_2: '#0E319F'
     },
     {
-      title_1: 'Karken',
-      img_1: '/images/heo/Karken.webp',
-      color_1: '#7132F5',
-      title_2: 'MEXC',
-      img_2: '/images/heo/MEXC.webp',
+      title_1: 'Gate',
+      img_1: '/images/heo/Gate.webp',
+      color_1: '#ffffff',
+      title_2: 'MetaMask',
+      img_2: '/images/heo/MetaMask.webp',
       color_2: '#ffffff'
     },
     {
-      title_1: 'iFast',
-      img_1: '/images/heo/iFast.webp',
-      color_1: '#00ADBB',
-      title_2: 'N26',
-      img_2: '/images/heo/N26.webp',
-      color_2: '#088177'
+      title_1: 'N26',
+      img_1: '/images/heo/N26.webp',
+      color_1: '#088177',
+      title_2: 'iFast',
+      img_2: '/images/heo/iFast.webp',
+      color_2: '#A7E3E5'
     },
     {
-      title_1: 'Neverless',
-      img_1: '/images/heo/Neverless.webp',
-      color_1: '#FAF2E7',
-      title_2: 'Nexo',
-      img_2: '/images/heo/Nexo.webp',
-      color_2: '#0A0D11'
+      title_1: 'Nexo',
+      img_1: '/images/heo/Nexo.webp',
+      color_1: '#0A0D11',
+      title_2: 'Neverless',
+      img_2: '/images/heo/Neverless.webp',
+      color_2: '#FAF2E7'
     }
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
+  HEO_SOCIAL_CARD_TITLE_1: '社群交流',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://qq.com/group/123456789', // 社群链接
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
