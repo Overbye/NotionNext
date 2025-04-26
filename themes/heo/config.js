@@ -1,6 +1,6 @@
 const CONFIG = {
   HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
-  HEO_LOADING_COVER: true, // 页面加载的遮罩动画
+  HEO_LOADING_COVER: false, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
 
@@ -119,7 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '社群交流',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入内部交流群',
   HEO_SOCIAL_CARD_URL: 'https://qq.com/group/123456789', // 社群链接
 
   // 底部统计面板文案
@@ -137,7 +137,7 @@ const CONFIG = {
   HEO_MENU_SEARCH: true, // 显示搜索
 
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
-  HEO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
+  HEO_POST_LIST_COVER_HOVER_ENLARGE: true, // 列表鼠标悬停放大
 
   HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
