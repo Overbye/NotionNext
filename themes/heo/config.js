@@ -61,7 +61,7 @@ const CONFIG = {
     {
       title_1: 'SafePal',
       img_1: '/images/heo/SafePal.webp',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'Revolut',
       img_2: '/images/heo/Revolut.webp',
       color_2: '#ffffff'
@@ -69,10 +69,10 @@ const CONFIG = {
     {
       title_1: 'Binance',
       img_1: '/images/heo/Binance.webp',
-      color_1: '#57b6e6',
+      color_1: '#ffffff',
       title_2: 'OKX',
       img_2: '/images/heo/OKX.webp',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'BOCHK',
@@ -85,34 +85,34 @@ const CONFIG = {
     {
       title_1: 'Wise',
       img_1: '/images/heo/Wise.webp',
-      color_1: '#eb6840',
+      color_1: '#ffffff',
       title_2: 'PayPal',
       img_2: '/images/heo/PayPal.webp',
-      color_2: '#8f55ba'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Karken',
       img_1: '/images/heo/Karken.webp',
-      color_1: '#f29e39',
+      color_1: '#ffffff',
       title_2: 'MEXC',
       img_2: '/images/heo/MEXC.webp',
-      color_2: '#2c51db'
+      color_2: '#ffffff'
     },
     {
       title_1: 'iFast',
       img_1: '/images/heo/iFast.webp',
-      color_1: '#f7cb4f',
+      color_1: '#ffffff',
       title_2: 'MyFinN26',
       img_2: '/images/heo/N26.webp',
-      color_2: '#e9572b'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Neverless',
       img_1: '/images/heo/Neverless.webp',
-      color_1: '#df5b40',
+      color_1: '#ffffff',
       title_2: 'Nexo',
       img_2: '/images/heo/Nexo.webp',
-      color_2: '#1f1f1f'
+      color_2: '#ffffff'
     }
   ],
 
