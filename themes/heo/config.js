@@ -95,7 +95,7 @@ const CONFIG = {
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      img_2: '/images/heo/MEXC.webp',
       color_2: '#2c51db'
     },
     {
