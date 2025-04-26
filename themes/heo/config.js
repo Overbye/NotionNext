@@ -61,7 +61,7 @@ const CONFIG = {
     {
       title_1: 'SafePal',
       img_1: '/images/heo/SafePal.webp',
-      color_1: '#ffffff',
+      color_1: '#4A30EF',
       title_2: 'Revolut',
       img_2: '/images/heo/Revolut.webp',
       color_2: '#ffffff'
@@ -69,10 +69,10 @@ const CONFIG = {
     {
       title_1: 'Binance',
       img_1: '/images/heo/Binance.webp',
-      color_1: '#ffffff',
+      color_1: '#0B0E11',
       title_2: 'OKX',
       img_2: '/images/heo/OKX.webp',
-      color_2: '#ffffff'
+      color_2: '#000000'
     },
     {
       title_1: 'BOCHK',
@@ -85,15 +85,15 @@ const CONFIG = {
     {
       title_1: 'Wise',
       img_1: '/images/heo/Wise.webp',
-      color_1: '#ffffff',
+      color_1: '#87EA5C',
       title_2: 'PayPal',
       img_2: '/images/heo/PayPal.webp',
-      color_2: '#ffffff'
+      color_2: '#0E319F'
     },
     {
       title_1: 'Karken',
       img_1: '/images/heo/Karken.webp',
-      color_1: '#ffffff',
+      color_1: '#7132F5',
       title_2: 'MEXC',
       img_2: '/images/heo/MEXC.webp',
       color_2: '#ffffff'
@@ -101,18 +101,18 @@ const CONFIG = {
     {
       title_1: 'iFast',
       img_1: '/images/heo/iFast.webp',
-      color_1: '#ffffff',
-      title_2: 'MyFinN26',
+      color_1: '#00ADBB',
+      title_2: 'N26',
       img_2: '/images/heo/N26.webp',
-      color_2: '#ffffff'
+      color_2: '#088177'
     },
     {
       title_1: 'Neverless',
       img_1: '/images/heo/Neverless.webp',
-      color_1: '#ffffff',
+      color_1: '#FAF2E7',
       title_2: 'Nexo',
       img_2: '/images/heo/Nexo.webp',
-      color_2: '#ffffff'
+      color_2: '#0A0D11'
     }
   ],
 
