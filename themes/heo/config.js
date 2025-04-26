@@ -102,9 +102,9 @@ const CONFIG = {
       title_1: 'N26',
       img_1: '/images/heo/N26.webp',
       color_1: '#088177',
-      title_2: 'iFast',
-      img_2: '/images/heo/iFast.webp',
-      color_2: '#A7E3E5'
+      title_2: 'MyFin',
+      img_2: '/images/heo/MyFin.webp',
+      color_2: '#ffffff'
     },
     {
       title_1: 'Nexo',
