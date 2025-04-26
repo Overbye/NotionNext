@@ -22,6 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '生活指南',
   HEO_HERO_TITLE_3: 'Digital Life Guide',
   HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_5: '你为什么需要数字游民生活指南？',
   HEO_HERO_TITLE_LINK: '/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
